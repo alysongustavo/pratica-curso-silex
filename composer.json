@@ -1,0 +1,14 @@
+{
+    "name": "gdasi/pratica-curso-silex",
+    "description": "Projeto Pratico Curso Silex",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alyson Rodrigo",
+            "email": "g.dasilva@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
